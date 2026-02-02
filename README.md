@@ -34,8 +34,7 @@ Robotics Researcher
 ## 📄 Papers
 
 - **MPPI-BP: Sampling Belief Propagation using MPPI-based Factor Potentials**  
-  *Geonwoo Kim*, **First Author**  
-  **KRoC 2026**, Korean Robotics Society Annual Conference  
+  *Geonwoo Kim***KRoC 2026**, Korean Robotics Society Annual Conference  
   *(한국로보틱스학회 학술대회 논문)*
 
 > PDF / arXiv / Code link (TBA)
