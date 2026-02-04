@@ -64,5 +64,6 @@ Robotics Researcher
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Jax](https://img.shields.io/badge/Jax?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fjax-ml%2Fjax%2Fmain%2Fimages%2Fjax_logo_250px.png)
+![Jax](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fjax-ml%2Fjax?style=for-the-badge&logo=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pheC1tbC9qYXgvbWFpbi9pbWFnZXMvamF4X2xvZ29fMjUwcHgucG5n&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fjax-ml%2Fjax)
+
 
