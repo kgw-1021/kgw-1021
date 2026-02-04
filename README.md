@@ -45,14 +45,14 @@ Robotics Researcher
 
 ### 🚗 Autonomous Driving
 
-- **BFMC (Bosch Future Mobility Competition)** – 8th
+- **BFMC (Bosch Future Mobility Competition)** – 8th [!https://boschfuturemobility.com/]
 - **Mando Autonomous Driving Competition** – 6th
-- **Kookmin University (COSS) Autonomous Driving Competition** – 4th
+- **Kookmin University (COSS) Autonomous Driving Competition** – 4th [!https://www.cossnet.com/contest/program/view?id=80&category=]
 
 ### 💻 Software
 
-- **The World Embedded Software Contest 2025**  
-  Industry–Academic Sector – 🥈 2nd Place
+- **Embedded Software Contest 2025**  
+  Industry–Academic Sector – 🥈 2nd Place [!https://www.eswcontest.or.kr/main.php]
 
 ---
 
